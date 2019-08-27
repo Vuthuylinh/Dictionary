@@ -1,0 +1,15 @@
+input[type=text] {
+    width: 200px;
+    font-size: 16px;
+    border: 2px solid #4034cc;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+#submit {
+    border-radius: 2px;
+    padding: 10px 32px;
+    font-size: 16px;
+}
+form{
+    border: 1px solid #cc1b1b;
+}
